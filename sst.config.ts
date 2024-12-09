@@ -5,7 +5,7 @@ export default {
   config(_input) {
     return {
       name: "aws-sst",
-      region: "us-west-2",
+      region: "ap-southeast-2",
     };
   },
   stacks(app) {
